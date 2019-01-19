@@ -1,0 +1,27 @@
+{
+  "name": "sandtrailstudios",
+  "version": "1.0.0",
+  "description": "My awe-inspiring Nuxt.js project",
+  "author": "Jon Waldstein",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "aos": "^3.0.0-beta.6",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.3.4",
+    "vee-validate": "^2.1.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.6.4",
+    "node-sass": "^4.11.0",
+    "nodemon": "^1.18.9",
+    "sass-loader": "^7.1.0",
+    "tailwindcss": "^0.7.0"
+  }
+}

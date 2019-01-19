@@ -1,0 +1,9 @@
+a,
+button{
+	transition: all 0.2s;
+}
+.hero-gradient,
+.bg-gradient{
+	background: #0f8a9d;
+	background: linear-gradient(57deg, #00C6A7 0%, #1E4D92 100%);
+}
