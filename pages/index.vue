@@ -45,6 +45,7 @@
                   </div>
                 </div>
             </section>
+            <hr class="w-5/6 mx-auto border">
             <section class="container mx-auto px-2" data-aos="fade-in" data-aos-duration="600">
                 <div class="px-6 py-4">
                     <h3 class="m-2">Buzz Words:</h3>
@@ -70,6 +71,7 @@
                     <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker m-2">GIT</span>
                   </div>
             </section>
+            <hr class="w-5/6 mx-auto border">
             <section class="container mx-auto px-2" data-aos="fade-in" data-aos-duration="600">
                 <div class="flex flex-wrap my-10 -mx-2 justify-center">
                 <div class="w-full pb-10 text-center">
@@ -156,7 +158,6 @@
                     </div>
                 </div>
             </section>
-        </main>
 
         <hr class="w-5/6 mx-auto border">
 
@@ -164,6 +165,7 @@
 
         <Footer />
 
+        </main>
     </div>
 </template>
 
