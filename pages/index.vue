@@ -181,6 +181,19 @@ export default {
     Banner,
     Footer,
     ContactForm
+  },
+  data () {
+    return {
+    
+    }
+  },
+  head () {
+    return {
+      title: 'Full Stack Web Development in Rhode Island',
+      meta: [
+        { hid: 'description', name: 'description', content: 'Full stack web develoment studio in rhode island specalizing in WordPress, Craft CMS, Shopify, and Laravel' }
+      ]
+    }
   }
 }
 </script>
