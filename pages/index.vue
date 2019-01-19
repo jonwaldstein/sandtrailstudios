@@ -97,13 +97,13 @@
                   </div>
                 </div>
             </section>
-            <section class="container mx-auto px-2" data-aos="fade-in" data-aos-duration="600">
+            <section class="container mx-auto px-4" data-aos="fade-in" data-aos-duration="600">
                 <div class="flex my-5 -mx-2 justify-center flex-wrap">
                     <div class="w-full pb-10 text-center">
                         <h2>Our Process:</h2>
                     </div>
-                    <div class="md:flex md:justify-between max-w-xs mx-auto mb-6" data-aos="fade-in" data-aos-duration="600">
-                        <div class="w-1/6">
+                    <div class="md:flex justify-center text-center md:text-left md:justify-between max-w-xs mx-auto mb-6" data-aos="fade-in" data-aos-duration="600">
+                        <div class="w-1/6 mx-auto">
                             <span class="align-middle text-teal-dark fa-2x far fa-check-circle"></span>
                         </div>
                         <div class="md:w-5/6">
@@ -111,8 +111,8 @@
                             <p>Before writing a single line of code, lets analyze the situation and figure out what the needs and requirements are.</p>
                         </div>
                     </div>
-                    <div class="md:flex md:justify-between max-w-xs mx-auto mb-6" data-aos="fade-in" data-aos-duration="600">
-                        <div class="w-1/6">
+                    <div class="md:flex md:justify-between text-center md:text-left max-w-xs mx-auto mb-6" data-aos="fade-in" data-aos-duration="600">
+                        <div class="w-1/6 mx-auto">
                             <span class="align-middle text-teal-dark fa-2x far fa-check-circle"></span>
                         </div>
                         <div class="md:w-5/6">
@@ -120,8 +120,8 @@
                             <p>Now that we know the specs, its time to put a plan together.</p>
                         </div>
                     </div>
-                    <div class="md:flex md:justify-between max-w-xs mx-auto mb-6" data-aos="fade-in" data-aos-duration="600">
-                        <div class="w-1/6">
+                    <div class="md:flex md:justify-between text-center md:text-left max-w-xs mx-auto mb-6" data-aos="fade-in" data-aos-duration="600">
+                        <div class="w-1/6 mx-auto">
                             <span class="align-middle text-teal-dark fa-2x far fa-check-circle"></span>
                         </div>
                         <div class="md:w-5/6">
@@ -129,8 +129,8 @@
                             <p>With our plan in place, we have a guideline for development.</p>
                         </div>
                     </div>
-                    <div class="md:flex md:justify-between max-w-xs mx-auto mb-6" data-aos="fade-in" data-aos-duration="600">
-                        <div class="w-1/6">
+                    <div class="md:flex md:justify-between text-center md:text-left max-w-xs mx-auto mb-6" data-aos="fade-in" data-aos-duration="600">
+                        <div class="w-1/6 mx-auto">
                             <span class="align-middle text-teal-dark fa-2x far fa-check-circle"></span>
                         </div>
                         <div class="md:w-5/6">
@@ -138,8 +138,8 @@
                             <p>During production, we can ensure deadlines will be met with our project management workflow.</p>
                         </div>
                     </div>
-                     <div class="md:flex md:justify-between max-w-xs mx-auto mb-6" data-aos="fade-in" data-aos-duration="600">
-                        <div class="w-1/6">
+                     <div class="md:flex md:justify-between text-center md:text-left max-w-xs mx-auto mb-6" data-aos="fade-in" data-aos-duration="600">
+                        <div class="w-1/6 mx-auto">
                             <span class="align-middle text-teal-dark fa-2x far fa-check-circle"></span>
                         </div>
                         <div class="md:w-5/6">
@@ -147,8 +147,8 @@
                             <p>After production its time to test for bugs, browsers, and people.</p>
                         </div>
                     </div>
-                    <div class="md:flex md:justify-between max-w-xs mx-auto mb-6" data-aos="fade-in" data-aos-duration="600">
-                        <div class="w-1/6">
+                    <div class="md:flex md:justify-between text-center md:text-left max-w-xs mx-auto mb-6" data-aos="fade-in" data-aos-duration="600">
+                        <div class="w-1/6 mx-auto">
                             <span class="align-middle text-teal-dark fa-2x far fa-check-circle"></span>
                         </div>
                         <div class="md:w-5/6">

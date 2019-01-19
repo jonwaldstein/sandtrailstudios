@@ -18,7 +18,8 @@ module.exports = {
       { src: 'https://use.fontawesome.com/releases/v5.0.6/js/all.js' },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Lato:300,400,700' }
     ]
   },
 
