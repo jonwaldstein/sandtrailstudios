@@ -2,7 +2,7 @@
 	<footer class="bg-grey-lightest py-8">
       <div class="flex flex-col-reverse md:flex-row md:items-center md:justify-between px-8">
           <small class="block text-sm text-grey">
-              &copy; Sand Trail Studios
+              &copy; Sand Trail Studios - Westerly, RI
           </small>
           <div class="mb-4 md:mb-0">
               <div class="flex flex-col md:flex-row md:items-center">
