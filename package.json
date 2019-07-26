@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/google-analytics": "^2.2.0",
     "aos": "^3.0.0-beta.6",
     "cross-env": "^5.2.0",
     "nuxt": "^2.3.4",

@@ -42,6 +42,7 @@ module.exports = {
   */
   plugins: [
     { src: "~/plugins/aos", ssr: false },
+    { src: '~plugins/ga.js', ssr: false }
   ],
 
   /*
@@ -50,7 +51,12 @@ module.exports = {
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
+    //'@nuxtjs/google-analytics'
   ],
+
+  // googleAnalytics: {
+  //   id: 'UA-144596945-1'
+  // },
   /*
   ** Axios module configuration
   */
